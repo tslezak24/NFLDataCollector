@@ -1,0 +1,904 @@
+{
+  "Cardinals": [
+    {
+      "Name": "Isaiah Adams",
+      "Number": "74",
+      "Position": "OL",
+      "Height": "6-4",
+      "Weight": "316",
+      "Age": "23",
+      "Experience": "R",
+      "College": "Illinois"
+    },
+    {
+      "Name": "Daniel Arias",
+      "Number": "38",
+      "Position": "WR",
+      "Height": "6-3",
+      "Weight": "216",
+      "Age": "25",
+      "Experience": "1",
+      "College": "Colorado"
+    },
+    {
+      "Name": "Andre Baccellia",
+      "Number": "82",
+      "Position": "WR",
+      "Height": "5-10",
+      "Weight": "175",
+      "Age": "27",
+      "Experience": "2",
+      "College": "Washington"
+    },
+    {
+      "Name": "Markus Bailey",
+      "Number": "41",
+      "Position": "ILB",
+      "Height": "6-1",
+      "Weight": "235",
+      "Age": "27",
+      "Experience": "5",
+      "College": "Purdue"
+    },
+    {
+      "Name": "Budda Baker",
+      "Number": "3",
+      "Position": "S",
+      "Height": "5-10",
+      "Weight": "195",
+      "Age": "28",
+      "Experience": "8",
+      "College": "Washington"
+    },
+    {
+      "Name": "Krys Barnes",
+      "Number": "51",
+      "Position": "ILB",
+      "Height": "6-2",
+      "Weight": "229",
+      "Age": "26",
+      "Experience": "5",
+      "College": "UCLA"
+    },
+    {
+      "Name": "Jackson Barton",
+      "Number": "66",
+      "Position": "OL",
+      "Height": "6-7",
+      "Weight": "302",
+      "Age": "28",
+      "Experience": "5",
+      "College": "Utah"
+    },
+    {
+      "Name": "Kelvin Beachum",
+      "Number": "68",
+      "Position": "OL",
+      "Height": "6-3",
+      "Weight": "308",
+      "Age": "35",
+      "Experience": "13",
+      "College": "Southern Methodist"
+    },
+    {
+      "Name": "Joey Blount",
+      "Number": "32",
+      "Position": "S",
+      "Height": "6-1",
+      "Weight": "201",
+      "Age": "25",
+      "Experience": "3",
+      "College": "Virginia"
+    },
+    {
+      "Name": "Aaron Brewer",
+      "Number": "46",
+      "Position": "LS",
+      "Height": "6-5",
+      "Weight": "232",
+      "Age": "33",
+      "Experience": "13",
+      "College": "San Diego State"
+    },
+    {
+      "Name": "Evan Brown",
+      "Number": "62",
+      "Position": "OL",
+      "Height": "6-3",
+      "Weight": "320",
+      "Age": "27",
+      "Experience": "6",
+      "College": "SMU"
+    },
+    {
+      "Name": "Michael Carter",
+      "Number": "22",
+      "Position": "RB",
+      "Height": "5-8",
+      "Weight": "201",
+      "Age": "25",
+      "Experience": "4",
+      "College": "North Carolina"
+    },
+    {
+      "Name": "Andre Chachere",
+      "Number": "36",
+      "Position": "S",
+      "Height": "6-0",
+      "Weight": "197",
+      "Age": "28",
+      "Experience": "4",
+      "College": "San Jose State"
+    },
+    {
+      "Name": "Dan Chisena",
+      "Number": "17",
+      "Position": "WR",
+      "Height": "6-3",
+      "Weight": "203",
+      "Age": "27",
+      "Experience": "3",
+      "College": "Penn State"
+    },
+    {
+      "Name": "Kei'Trel Clark",
+      "Number": "13",
+      "Position": "CB",
+      "Height": "5-10",
+      "Weight": "181",
+      "Age": "23",
+      "Experience": "2",
+      "College": "Louisville"
+    },
+    {
+      "Name": "L.J. Collier",
+      "Number": "91",
+      "Position": "DL",
+      "Height": "6-2",
+      "Weight": "291",
+      "Age": "28",
+      "Experience": "6",
+      "College": "TCU"
+    },
+    {
+      "Name": "Zaven Collins",
+      "Number": "25",
+      "Position": "OLB",
+      "Height": "6-4",
+      "Weight": "260",
+      "Age": "25",
+      "Experience": "4",
+      "College": "Tulsa"
+    },
+    {
+      "Name": "Trystan Colon",
+      "Number": "63",
+      "Position": "OL",
+      "Height": "6-3",
+      "Weight": "313",
+      "Age": "26",
+      "Experience": "5",
+      "College": "Missouri"
+    },
+    {
+      "Name": "James Conner",
+      "Number": "6",
+      "Position": "RB",
+      "Height": "6-1",
+      "Weight": "233",
+      "Age": "29",
+      "Experience": "8",
+      "College": "Pittsburgh"
+    },
+    {
+      "Name": "Dennis Daley",
+      "Number": "71",
+      "Position": "OL",
+      "Height": "6-6",
+      "Weight": "326",
+      "Age": "27",
+      "Experience": "6",
+      "College": "South Carolina"
+    },
+    {
+      "Name": "DeeJay Dallas",
+      "Number": "20",
+      "Position": "RB",
+      "Height": "5-10",
+      "Weight": "214",
+      "Age": "25",
+      "Experience": "5",
+      "College": "Miami"
+    },
+    {
+      "Name": "Jaden Davis",
+      "Number": "39",
+      "Position": "CB",
+      "Height": "5-10",
+      "Weight": "182",
+      "Age": "22",
+      "Experience": "R",
+      "College": "Miami"
+    },
+    {
+      "Name": "Emari Demercado",
+      "Number": "31",
+      "Position": "RB",
+      "Height": "5-9",
+      "Weight": "215",
+      "Age": "25",
+      "Experience": "2",
+      "College": "TCU"
+    },
+    {
+      "Name": "Victor Dimukeje",
+      "Number": "52",
+      "Position": "OLB",
+      "Height": "6-2",
+      "Weight": "262",
+      "Age": "24",
+      "Experience": "4",
+      "College": "Duke"
+    },
+    {
+      "Name": "Greg Dortch",
+      "Number": "4",
+      "Position": "WR",
+      "Height": "5-7",
+      "Weight": "175",
+      "Age": "26",
+      "Experience": "4",
+      "College": "Wake Forest"
+    },
+    {
+      "Name": "Hjalte Froholdt",
+      "Number": "72",
+      "Position": "OL",
+      "Height": "6-5",
+      "Weight": "310",
+      "Age": "27",
+      "Experience": "6",
+      "College": "Arkansas"
+    },
+    {
+      "Name": "Jon Gaines II",
+      "Number": "59",
+      "Position": "OL",
+      "Height": "6-4",
+      "Weight": "303",
+      "Age": "25",
+      "Experience": "2",
+      "College": "UCLA"
+    },
+    {
+      "Name": "Dennis Gardeck",
+      "Number": "45",
+      "Position": "OLB",
+      "Height": "6-0",
+      "Weight": "232",
+      "Age": "29",
+      "Experience": "7",
+      "College": "Sioux Falls"
+    },
+    {
+      "Name": "Blake Gillikin",
+      "Number": "12",
+      "Position": "P",
+      "Height": "6-2",
+      "Weight": "196",
+      "Age": "26",
+      "Experience": "5",
+      "College": "Penn State"
+    },
+    {
+      "Name": "Darren Hall",
+      "Number": "30",
+      "Position": "CB",
+      "Height": "6-0",
+      "Weight": "190",
+      "Age": "24",
+      "Experience": "3",
+      "College": "San Diego State"
+    },
+    {
+      "Name": "Marvin Harrison Jr.",
+      "Number": "18",
+      "Position": "WR",
+      "Height": "6-4",
+      "Weight": "205",
+      "Age": "21",
+      "Experience": "R",
+      "College": "Ohio State"
+    },
+    {
+      "Name": "Marquis Hayes",
+      "Number": "78",
+      "Position": "OL",
+      "Height": "6-5",
+      "Weight": "318",
+      "Age": "25",
+      "Experience": "2",
+      "College": "Oklahoma"
+    },
+    {
+      "Name": "Will Hernandez",
+      "Number": "76",
+      "Position": "OL",
+      "Height": "6-2",
+      "Weight": "332",
+      "Age": "28",
+      "Experience": "7",
+      "College": "Texas-El Paso"
+    },
+    {
+      "Name": "Elijah Higgins",
+      "Number": "84",
+      "Position": "TE",
+      "Height": "6-3",
+      "Weight": "235",
+      "Age": "23",
+      "Experience": "2",
+      "College": "Stanford"
+    },
+    {
+      "Name": "Phil Hoskins",
+      "Number": "79",
+      "Position": "DL",
+      "Height": "6-5",
+      "Weight": "315",
+      "Age": "27",
+      "Experience": "3",
+      "College": "Kentucky"
+    },
+    {
+      "Name": "Keith Ismael",
+      "Number": "60",
+      "Position": "OL",
+      "Height": "6-3",
+      "Weight": "310",
+      "Age": "25",
+      "Experience": "4",
+      "College": "San Diego State"
+    },
+    {
+      "Name": "Paris Johnson Jr.",
+      "Number": "70",
+      "Position": "OL",
+      "Height": "6-6",
+      "Weight": "313",
+      "Age": "22",
+      "Experience": "2",
+      "College": "Ohio State"
+    },
+    {
+      "Name": "Christian Jones",
+      "Number": "75",
+      "Position": "OL",
+      "Height": "6-5",
+      "Weight": "318",
+      "Age": "24",
+      "Experience": "R",
+      "College": "Texas"
+    },
+    {
+      "Name": "Elijah Jones",
+      "Number": "28",
+      "Position": "CB",
+      "Height": "6-2",
+      "Weight": "184",
+      "Age": "24",
+      "Experience": "R",
+      "College": "Boston College"
+    },
+    {
+      "Name": "Zay Jones",
+      "Number": "12",
+      "Position": "WR",
+      "Height": "6-2",
+      "Weight": "200",
+      "Age": "29",
+      "Experience": "8",
+      "College": "East Carolina"
+    },
+    {
+      "Name": "Justin Jones",
+      "Number": "93",
+      "Position": "DL",
+      "Height": "6-3",
+      "Weight": "309",
+      "Age": "27",
+      "Experience": "7",
+      "College": "N.C. State"
+    },
+    {
+      "Name": "Naquan Jones",
+      "Number": "96",
+      "Position": "DL",
+      "Height": "6-3",
+      "Weight": "313",
+      "Age": "26",
+      "Experience": "4",
+      "College": "Michigan State"
+    },
+    {
+      "Name": "Tony Jones",
+      "Number": "37",
+      "Position": "RB",
+      "Height": "5-11",
+      "Weight": "224",
+      "Age": "26",
+      "Experience": "4",
+      "College": "Notre Dame"
+    },
+    {
+      "Name": "Roy Lopez",
+      "Number": "98",
+      "Position": "DL",
+      "Height": "6-2",
+      "Weight": "318",
+      "Age": "26",
+      "Experience": "4",
+      "College": "Arizona"
+    },
+    {
+      "Name": "Jesse Luketa",
+      "Number": "43",
+      "Position": "OLB",
+      "Height": "6-3",
+      "Weight": "253",
+      "Age": "25",
+      "Experience": "3",
+      "College": "Penn State"
+    },
+    {
+      "Name": "Tyreek Maddox-Williams",
+      "Number": "58",
+      "Position": "ILB",
+      "Height": "6-0",
+      "Weight": "228",
+      "Age": "26",
+      "Experience": "1",
+      "College": "Rutgers"
+    },
+    {
+      "Name": "Trey McBride",
+      "Number": "85",
+      "Position": "TE",
+      "Height": "6-4",
+      "Weight": "246",
+      "Age": "24",
+      "Experience": "3",
+      "College": "Colorado State"
+    },
+    {
+      "Name": "Verone McKinley III",
+      "Number": "35",
+      "Position": "S",
+      "Height": "5-10",
+      "Weight": "195",
+      "Age": "25",
+      "Experience": "2",
+      "College": "Oregon"
+    },
+    {
+      "Name": "Max Melton",
+      "Number": "16",
+      "Position": "CB",
+      "Height": "5-11",
+      "Weight": "193",
+      "Age": "22",
+      "Experience": "R",
+      "College": "Rutgers"
+    },
+    {
+      "Name": "Chris Moore",
+      "Number": "10",
+      "Position": "WR",
+      "Height": "6-1",
+      "Weight": "200",
+      "Age": "31",
+      "Experience": "9",
+      "College": "Cincinnati"
+    },
+    {
+      "Name": "Sean Murphy-Bunting",
+      "Number": "23",
+      "Position": "CB",
+      "Height": "6-0",
+      "Weight": "195",
+      "Age": "27",
+      "Experience": "6",
+      "College": "Central Michigan"
+    },
+    {
+      "Name": "Myles Murphy",
+      "Number": "57",
+      "Position": "DL",
+      "Height": "6-4",
+      "Weight": "312",
+      "Age": "N/A",
+      "Experience": "R",
+      "College": "North Carolina"
+    },
+    {
+      "Name": "Kyler Murray",
+      "Number": "1",
+      "Position": "QB",
+      "Height": "5-10",
+      "Weight": "207",
+      "Age": "26",
+      "Experience": "6",
+      "College": "Oklahoma"
+    },
+    {
+      "Name": "Bilal Nichols",
+      "Number": "92",
+      "Position": "DL",
+      "Height": "6-4",
+      "Weight": "313",
+      "Age": "27",
+      "Experience": "7",
+      "College": "Delaware"
+    },
+    {
+      "Name": "Trevor Nowaske",
+      "Number": "53",
+      "Position": "ILB",
+      "Height": "6-3",
+      "Weight": "235",
+      "Age": "25",
+      "Experience": "2",
+      "College": "Saginaw Valley State"
+    },
+    {
+      "Name": "Carter O'Donnell",
+      "Number": "61",
+      "Position": "OL",
+      "Height": "6-5",
+      "Weight": "305",
+      "Age": "25",
+      "Experience": "3",
+      "College": "Alberta (Canada)"
+    },
+    {
+      "Name": "Michael Ojemudia",
+      "Number": "29",
+      "Position": "CB",
+      "Height": "6-1",
+      "Weight": "200",
+      "Age": "26",
+      "Experience": "4",
+      "College": "Iowa"
+    },
+    {
+      "Name": "BJ Ojulari",
+      "Number": "9",
+      "Position": "OLB",
+      "Height": "6-2",
+      "Weight": "256",
+      "Age": "22",
+      "Experience": "2",
+      "College": "LSU"
+    },
+    {
+      "Name": "Tejhaun Palmer",
+      "Number": "83",
+      "Position": "WR",
+      "Height": "6-2",
+      "Weight": "210",
+      "Age": "24",
+      "Experience": "R",
+      "College": "UAB"
+    },
+    {
+      "Name": "Owen Pappoe",
+      "Number": "44",
+      "Position": "ILB",
+      "Height": "6-0",
+      "Weight": "225",
+      "Age": "23",
+      "Experience": "2",
+      "College": "Auburn"
+    },
+    {
+      "Name": "Zach Pascal",
+      "Number": "0",
+      "Position": "WR",
+      "Height": "6-2",
+      "Weight": "215",
+      "Age": "29",
+      "Experience": "7",
+      "College": "Old Dominion"
+    },
+    {
+      "Name": "Austen Pleasants",
+      "Number": "67",
+      "Position": "OL",
+      "Height": "6-7",
+      "Weight": "330",
+      "Age": "26",
+      "Experience": "1",
+      "College": "Ohio"
+    },
+    {
+      "Name": "Matt Prater",
+      "Number": "5",
+      "Position": "K",
+      "Height": "5-10",
+      "Weight": "201",
+      "Age": "39",
+      "Experience": "18",
+      "College": "UCF"
+    },
+    {
+      "Name": "Bobby Price",
+      "Number": "26",
+      "Position": "CB",
+      "Height": "6-3",
+      "Weight": "208",
+      "Age": "26",
+      "Experience": "5",
+      "College": "Norfolk State"
+    },
+    {
+      "Name": "Tip Reiman",
+      "Number": "87",
+      "Position": "TE",
+      "Height": "6-4",
+      "Weight": "273",
+      "Age": "22",
+      "Experience": "R",
+      "College": "Illinois"
+    },
+    {
+      "Name": "Desmond Ridder",
+      "Number": "19",
+      "Position": "QB",
+      "Height": "6-3",
+      "Weight": "207",
+      "Age": "24",
+      "Experience": "3",
+      "College": "Cincinnati"
+    },
+    {
+      "Name": "Darius Robinson",
+      "Number": "56",
+      "Position": "DL",
+      "Height": "6-5",
+      "Weight": "286",
+      "Age": "22",
+      "Experience": "R",
+      "College": "Missouri"
+    },
+    {
+      "Name": "Bernhard Seikovits",
+      "Number": "80",
+      "Position": "TE",
+      "Height": "6-5",
+      "Weight": "262",
+      "Age": "26",
+      "Experience": "1",
+      "College": "Austria"
+    },
+    {
+      "Name": "Joe Shimko",
+      "Number": "47",
+      "Position": "LS",
+      "Height": "6-0",
+      "Weight": "233",
+      "Age": "23",
+      "Experience": "R",
+      "College": "N.C. State"
+    },
+    {
+      "Name": "Jeff Smith",
+      "Number": "86",
+      "Position": "WR",
+      "Height": "6-1",
+      "Weight": "195",
+      "Age": "27",
+      "Experience": "4",
+      "College": "Boston College"
+    },
+    {
+      "Name": "Tyreke Smith",
+      "Number": "50",
+      "Position": "OLB",
+      "Height": "6-3",
+      "Weight": "255",
+      "Age": "24",
+      "Experience": "3",
+      "College": "Ohio State"
+    },
+    {
+      "Name": "Ben Stille",
+      "Number": "90",
+      "Position": "DL",
+      "Height": "6-4",
+      "Weight": "296",
+      "Age": "26",
+      "Experience": "2",
+      "College": "Nebraska"
+    },
+    {
+      "Name": "Dante Stills",
+      "Number": "55",
+      "Position": "DL",
+      "Height": "6-4",
+      "Weight": "286",
+      "Age": "24",
+      "Experience": "2",
+      "College": "West Virginia"
+    },
+    {
+      "Name": "Dadrion Taylor-Demerson",
+      "Number": "42",
+      "Position": "S",
+      "Height": "5-10",
+      "Weight": "189",
+      "Age": "23",
+      "Experience": "R",
+      "College": "Texas Tech"
+    },
+    {
+      "Name": "Cameron Thomas",
+      "Number": "97",
+      "Position": "OLB",
+      "Height": "6-4",
+      "Weight": "267",
+      "Age": "24",
+      "Experience": "3",
+      "College": "San Diego State"
+    },
+    {
+      "Name": "Starling Thomas V",
+      "Number": "24",
+      "Position": "CB",
+      "Height": "5-10",
+      "Weight": "194",
+      "Age": "24",
+      "Experience": "2",
+      "College": "UAB"
+    },
+    {
+      "Name": "Xavier Thomas",
+      "Number": "54",
+      "Position": "OLB",
+      "Height": "6-2",
+      "Weight": "244",
+      "Age": "24",
+      "Experience": "R",
+      "College": "Clemson"
+    },
+    {
+      "Name": "Jalen Thompson",
+      "Number": "34",
+      "Position": "S",
+      "Height": "5-11",
+      "Weight": "190",
+      "Age": "25",
+      "Experience": "6",
+      "College": "Washington State"
+    },
+    {
+      "Name": "Khyiris Tonga",
+      "Number": "95",
+      "Position": "DL",
+      "Height": "6-4",
+      "Weight": "338",
+      "Age": "27",
+      "Experience": "4",
+      "College": "BYU"
+    },
+    {
+      "Name": "Clayton Tune",
+      "Number": "15",
+      "Position": "QB",
+      "Height": "6-3",
+      "Weight": "220",
+      "Age": "25",
+      "Experience": "2",
+      "College": "Houston"
+    },
+    {
+      "Name": "Travis Vokolek",
+      "Number": "81",
+      "Position": "TE",
+      "Height": "6-6",
+      "Weight": "260",
+      "Age": "26",
+      "Experience": "1",
+      "College": "Nebraska"
+    },
+    {
+      "Name": "Xavier Weaver",
+      "Number": "30",
+      "Position": "WR",
+      "Height": "6-1",
+      "Weight": "180",
+      "Age": "23",
+      "Experience": "R",
+      "College": "Colorado"
+    },
+    {
+      "Name": "Kyzir White",
+      "Number": "7",
+      "Position": "ILB",
+      "Height": "6-2",
+      "Weight": "234",
+      "Age": "28",
+      "Experience": "7",
+      "College": "West Virginia"
+    },
+    {
+      "Name": "Blake Whiteheart",
+      "Number": "89",
+      "Position": "TE",
+      "Height": "6-4",
+      "Weight": "247",
+      "Age": "24",
+      "Experience": "2",
+      "College": "Wake Forest"
+    },
+    {
+      "Name": "Elijah Wilkinson",
+      "Number": "65",
+      "Position": "OL",
+      "Height": "6-6",
+      "Weight": "314",
+      "Age": "29",
+      "Experience": "8",
+      "College": "UMass Amherst"
+    },
+    {
+      "Name": "Garrett Williams",
+      "Number": "21",
+      "Position": "CB",
+      "Height": "5-10",
+      "Weight": "192",
+      "Age": "23",
+      "Experience": "2",
+      "College": "Syracuse"
+    },
+    {
+      "Name": "Jonah Williams",
+      "Number": "73",
+      "Position": "OL",
+      "Height": "6-5",
+      "Weight": "312",
+      "Age": "26",
+      "Experience": "6",
+      "College": "Alabama"
+    },
+    {
+      "Name": "Divaad Wilson",
+      "Number": "27",
+      "Position": "CB",
+      "Height": "6-0",
+      "Weight": "195",
+      "Age": "24",
+      "Experience": "1",
+      "College": "UCF"
+    },
+    {
+      "Name": "Mack Wilson Sr.",
+      "Number": "2",
+      "Position": "ILB",
+      "Height": "6-1",
+      "Weight": "246",
+      "Age": "26",
+      "Experience": "6",
+      "College": "Alabama"
+    },
+    {
+      "Name": "Michael Wilson",
+      "Number": "14",
+      "Position": "WR",
+      "Height": "6-2",
+      "Weight": "213",
+      "Age": "24",
+      "Experience": "2",
+      "College": "Stanford"
+    }
+  ]
+}
