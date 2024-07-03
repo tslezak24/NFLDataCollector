@@ -1,1 +1,130 @@
-{"websites": ["https://www.azcardinals.com/", "https://www.atlantafalcons.com/", "https://www.panthers.com/", "https://www.chicagobears.com/", "https://www.dallascowboys.com/", "https://www.detroitlions.com/", "https://www.packers.com/", "https://www.therams.com/", "https://www.vikings.com/", "https://www.neworleanssaints.com/", "https://www.giants.com/", "https://www.philadelphiaeagles.com/", "https://www.49ers.com/", "https://www.seahawks.com/", "https://www.buccaneers.com/", "https://www.commanders.com/", "https://www.baltimoreravens.com/", "https://www.buffalobills.com/", "https://www.bengals.com/", "https://www.clevelandbrowns.com/", "https://www.denverbroncos.com/", "https://www.houstontexans.com/", "https://www.colts.com/", "https://www.jaguars.com/", "https://www.chiefs.com/", "https://www.raiders.com/", "https://www.chargers.com/", "https://www.miamidolphins.com/", "https://www.patriots.com/", "https://www.newyorkjets.com/", "https://www.steelers.com/", "https://www.tennesseetitans.com/"]}
+{
+  "Arizona Cardinals": {
+    "Profile_Link": "https://www.nfl.com/teams/arizona-cardinals/",
+    "Team_Website": "https://www.azcardinals.com/"
+  },
+  "Atlanta Falcons": {
+    "Profile_Link": "https://www.nfl.com/teams/atlanta-falcons/",
+    "Team_Website": "https://www.atlantafalcons.com/"
+  },
+  "Carolina Panthers": {
+    "Profile_Link": "https://www.nfl.com/teams/carolina-panthers/",
+    "Team_Website": "https://www.panthers.com/"
+  },
+  "Chicago Bears": {
+    "Profile_Link": "https://www.nfl.com/teams/chicago-bears/",
+    "Team_Website": "https://www.chicagobears.com/"
+  },
+  "Dallas Cowboys": {
+    "Profile_Link": "https://www.nfl.com/teams/dallas-cowboys/",
+    "Team_Website": "https://www.dallascowboys.com/"
+  },
+  "Detroit Lions": {
+    "Profile_Link": "https://www.nfl.com/teams/detroit-lions/",
+    "Team_Website": "https://www.detroitlions.com/"
+  },
+  "Green Bay Packers": {
+    "Profile_Link": "https://www.nfl.com/teams/green-bay-packers/",
+    "Team_Website": "https://www.packers.com/"
+  },
+  "Los Angeles Rams": {
+    "Profile_Link": "https://www.nfl.com/teams/los-angeles-rams/",
+    "Team_Website": "https://www.therams.com/"
+  },
+  "Minnesota Vikings": {
+    "Profile_Link": "https://www.nfl.com/teams/minnesota-vikings/",
+    "Team_Website": "https://www.vikings.com/"
+  },
+  "New Orleans Saints": {
+    "Profile_Link": "https://www.nfl.com/teams/new-orleans-saints/",
+    "Team_Website": "https://www.neworleanssaints.com/"
+  },
+  "New York Giants": {
+    "Profile_Link": "https://www.nfl.com/teams/new-york-giants/",
+    "Team_Website": "https://www.giants.com/"
+  },
+  "Philadelphia Eagles": {
+    "Profile_Link": "https://www.nfl.com/teams/philadelphia-eagles/",
+    "Team_Website": "https://www.philadelphiaeagles.com/"
+  },
+  "San Francisco 49ers": {
+    "Profile_Link": "https://www.nfl.com/teams/san-francisco-49ers/",
+    "Team_Website": "https://www.49ers.com/"
+  },
+  "Seattle Seahawks": {
+    "Profile_Link": "https://www.nfl.com/teams/seattle-seahawks/",
+    "Team_Website": "https://www.seahawks.com/"
+  },
+  "Tampa Bay Buccaneers": {
+    "Profile_Link": "https://www.nfl.com/teams/tampa-bay-buccaneers/",
+    "Team_Website": "https://www.buccaneers.com/"
+  },
+  "Washington Commanders": {
+    "Profile_Link": "https://www.nfl.com/teams/washington-commanders/",
+    "Team_Website": "https://www.commanders.com/"
+  },
+  "Baltimore Ravens": {
+    "Profile_Link": "https://www.nfl.com/teams/baltimore-ravens/",
+    "Team_Website": "https://www.baltimoreravens.com/"
+  },
+  "Buffalo Bills": {
+    "Profile_Link": "https://www.nfl.com/teams/buffalo-bills/",
+    "Team_Website": "https://www.buffalobills.com/"
+  },
+  "Cincinnati Bengals": {
+    "Profile_Link": "https://www.nfl.com/teams/cincinnati-bengals/",
+    "Team_Website": "https://www.bengals.com/"
+  },
+  "Cleveland Browns": {
+    "Profile_Link": "https://www.nfl.com/teams/cleveland-browns/",
+    "Team_Website": "https://www.clevelandbrowns.com/"
+  },
+  "Denver Broncos": {
+    "Profile_Link": "https://www.nfl.com/teams/denver-broncos/",
+    "Team_Website": "https://www.denverbroncos.com/"
+  },
+  "Houston Texans": {
+    "Profile_Link": "https://www.nfl.com/teams/houston-texans",
+    "Team_Website": "https://www.houstontexans.com/"
+  },
+  "Indianapolis Colts": {
+    "Profile_Link": "https://www.nfl.com/teams/indianapolis-colts",
+    "Team_Website": "https://www.colts.com/"
+  },
+  "Jacksonville Jaguars": {
+    "Profile_Link": "https://www.nfl.com/teams/jacksonville-jaguars/",
+    "Team_Website": "https://www.jaguars.com/"
+  },
+  "Kansas City Chiefs": {
+    "Profile_Link": "https://www.nfl.com/teams/kansas-city-chiefs/",
+    "Team_Website": "https://www.chiefs.com/"
+  },
+  "Las Vegas Raiders": {
+    "Profile_Link": "https://www.nfl.com/teams/las-vegas-raiders/",
+    "Team_Website": "https://www.raiders.com/"
+  },
+  "Los Angeles Chargers": {
+    "Profile_Link": "https://www.nfl.com/teams/los-angeles-chargers/",
+    "Team_Website": "https://www.chargers.com/"
+  },
+  "Miami Dolphins": {
+    "Profile_Link": "https://www.nfl.com/teams/miami-dolphins/",
+    "Team_Website": "https://www.miamidolphins.com/"
+  },
+  "New England Patriots": {
+    "Profile_Link": "https://www.nfl.com/teams/new-england-patriots/",
+    "Team_Website": "https://www.patriots.com/"
+  },
+  "New York Jets": {
+    "Profile_Link": "https://www.nfl.com/teams/new-york-jets/",
+    "Team_Website": "https://www.newyorkjets.com/"
+  },
+  "Pittsburgh Steelers": {
+    "Profile_Link": "https://www.nfl.com/teams/pittsburgh-steelers/",
+    "Team_Website": "https://www.steelers.com/"
+  },
+  "Tennessee Titans": {
+    "Profile_Link": "https://www.nfl.com/teams/tennessee-titans/",
+    "Team_Website": "https://www.tennesseetitans.com/"
+  }
+}
