@@ -1,7 +1,6 @@
 import json
 import requests
 from bs4 import BeautifulSoup as bs
-import re
 
 
 def get_page(url, ptype):
@@ -11,14 +10,14 @@ def get_page(url, ptype):
 
     return soup
 
-def cardinals(url):
-    team_roster = {url: []}
+def get_roster(url):
+    team_roster = []
     soup = get_page(url, 'html.parser')
-    for idx, tr in enumerate(soup.find('table', summary='Roster').find_all('tr')):
+    for tr in soup.find('table', summary='Roster').find_all('tr'):
         row = [td.text.strip('\n') for td in tr.find_all('td')]
     
         if row != []:
-            team_roster["Cardinals"].append({
+            team_roster.append({
                 "Name": row[0],
                 "Number": row[1],
                 "Position": row[2],
@@ -28,23 +27,22 @@ def cardinals(url):
                 "Experience": row[6],
                 "College": row[7]
              })
-
-    with open("team_rosters.json", "w") as jsonfile:
-        json.dump(team_roster, jsonfile)
-    
-def get_roster_url(url):
-    soup = get_page(url, 'lxml')
-    
-    path = soup.findAll('a', href=True, string=re.compile("Roster"))
-    
-    return [url['href'] for url in path] 
+    return team_roster
 
 def main():
+    output = {}
     with open("settings.json", "r") as jsonfile:
-        data = json.load(jsonfile)
+        teams = json.load(jsonfile)
 
-    roster_url = get_roster_url(data['websites'][0])
-    cardinals(roster_url[0])
+    for key, value in teams.items():
+        team_roster = get_roster(value['Team_Website'] + 'team/players-roster/')
+        output[key] = team_roster
+        print(key + ": complete..")
+
+    with open("team_rosters.json", "w") as jsonfile:
+        json.dump(output, jsonfile)
+
+    print("Data Extract Complete.")
 
 if __name__ == "__main__":
     main()
