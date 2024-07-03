@@ -12,7 +12,7 @@ def get_page(url, ptype):
     return soup
 
 def cardinals(url):
-    team_roster = {"Cardinals": []}
+    team_roster = {url: []}
     soup = get_page(url, 'html.parser')
     for idx, tr in enumerate(soup.find('table', summary='Roster').find_all('tr')):
         row = [td.text.strip('\n') for td in tr.find_all('td')]
